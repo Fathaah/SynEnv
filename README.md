@@ -12,4 +12,4 @@ For prototyping selected classes of random objects are spawned far away from the
 
 Here are two train images for a knife the system generated:
 
-[!Alt Text](images/1.png)    [!Alt Text](images/2.png)
+[!Alt Text](https://github.com/Fathaah/SynEnv/blob/master/images/1.PNG)    [!Alt Text](https://github.com/Fathaah/SynEnv/blob/master/images/2.PNG)
