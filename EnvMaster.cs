@@ -28,8 +28,10 @@ public class MasterHand : MonoBehaviour {
     {
         MasterM();
         Light();
-        hconfig1();
+        //hconfig1();
     }
+
+    //Function to instantiate a target_model the subject of our classification task
     private void hconfig1()
     {
         
