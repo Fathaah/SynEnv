@@ -4,7 +4,7 @@ AIM: TO IDENTIFY A APPROPRIATE METHOD TO GENERATE SYNTHETIC DATA WHICH CAN BE US
 
 Currently the synthetic data is generated using Unity3D, we plan on moving it to a more light weight 3D engine.
 
-###3D MODELS
+### 3D MODELS
 
 The 3d models are obtained from [ShapeNet Dataset](https://www.shapenet.org/)
 
@@ -14,7 +14,7 @@ Here are two train images for a knife the system generated:
 
 ![Alt Text](https://github.com/Fathaah/SynEnv/blob/master/images/1.PNG)    ![Alt Text](https://github.com/Fathaah/SynEnv/blob/master/images/2.PNG)
 
-##TO DO
+## TO DO
 
 * **Benchmarking the synthetic images**.
 * Improve the Object spawning technique to get all the areas. 
