@@ -16,17 +16,17 @@ Here are two train images for a knife the system generated:
 
 ## TO DO
 
-[] **Benchmarking the synthetic images**.
-[] Improve the Object spawning technique to get all the areas. 
+* **Benchmarking the synthetic images**.
+* Improve the Object spawning technique to get all the areas. 
 
 
-[] Change the Background of the walls, randomized textures.
+* Change the Background of the walls, randomized textures.
 
 
-[] The intraction of lighting to different objects should be made more realistic.
+* The intraction of lighting to different objects should be made more realistic.
 
 
 
 
 
-[] Create a GAN which reduces test loss by appropriately synthesysing the background pixels to the different poses.
+* Create a GAN which reduces test loss by appropriately synthesysing the background pixels to the different poses.
