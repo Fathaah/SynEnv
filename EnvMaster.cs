@@ -18,7 +18,7 @@ public class MasterHand : MonoBehaviour {
     private void Start() 
     {
         MasterM();
-        string z = "C:/Users/abdul/Desktop/Hand/Data/T/" + start + ".jpg";
+        string z = "C:/Users/abdul/Desktop/Data/Train/" + start + ".jpg";
         ScreenCapture.CaptureScreenshot(z);
         start = start + 1;
         //point.generateString();
